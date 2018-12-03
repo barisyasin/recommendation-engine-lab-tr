@@ -2,7 +2,7 @@
 
 Bu atölye çalışması 3 aşamadan oluşmaktadır:
 
-[1. Veriyi anlama](lab1/README.md)
+[1. Veriyi anlama](https://github.com/barisyasin/recommendation-engine-lab-tr/tree/master/lab1)
 
 [2. Amazon Sagemaker kullanarak modelin eğitilmesi, test edilmesi ve kurulması]()
 
