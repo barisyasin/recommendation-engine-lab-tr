@@ -40,7 +40,7 @@ Atölye çalışmasının ilk bölümünde öncelikle Amazon S3'de bir bucket ya
  
 ***
 
-<div style="page-break-after: always;"></div>
+
 ### <a name="discover">AWS Glue Crawler kullanarak veriyi inceleyin</a>
 
 Atölye çalışmasının ikinci aşamasında AWS Glue kullanarak S3 buckettaki bütün veriyi crawl edeceğiz ve Glue Data Catalog ile tabloların otomatik yaratılmasını sağlayacağız. Bu sayede daha sonra S3 bucket'da tutulan veriye Amazon Athena kullanarak SQL sorguları atabileceğiz. 
@@ -96,7 +96,7 @@ Atölye çalışmasının ikinci aşamasında AWS Glue kullanarak S3 buckettaki 
 <img src="images/image-glue-add-crawler16.png"/>
 
 ***
-<div style="page-break-after: always;"></div>
+
 ### <a name="explore">Amazon Athena ile veriyi inceleme</a>
 
 Atölyenin 3. ve son bölümünde, S3 üzerinde bulunan verinizi doğrudan SQL ile sorgulamak için Amazon Athena kullanacaksınız. Bu ne tür veriniz olduğuna ve hangi tip ML modelleriyle eğitebileceğinize dair bazı ipuçları verecektir.
@@ -162,4 +162,4 @@ Atölyenin 3. ve son bölümünde, S3 üzerinde bulunan verinizi doğrudan SQL i
 
 #### Tebrikler! Atölye 1'i tamamladınız.
 
-Elinizdeki veri hakkında bazı ilginç bilgiler edindiniz. Sonraki atölye çalışmasında bu veriyi ML modeli oluşturmak için kullanacaksınız.
+Elinizdeki veri hakkında önemli bilgiler edindiniz. Sonraki atölye çalışmasında bu veriyi ML modeli oluşturmak için kullanacaksınız.

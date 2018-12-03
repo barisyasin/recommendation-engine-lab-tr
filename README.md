@@ -4,7 +4,7 @@ Bu atölye çalışması 3 aşamadan oluşmaktadır:
 
 [1. Veriyi anlama](https://github.com/barisyasin/recommendation-engine-lab-tr/tree/master/lab1)
 
-[2. Amazon Sagemaker kullanarak modelin eğitilmesi, test edilmesi ve kurulması - hazırlanıyor]
+[2. Amazon Sagemaker kullanarak modelin eğitilmesi, test edilmesi ve kurulması - hazırlanıyor](https://github.com/barisyasin/recommendation-engine-lab-tr/tree/master/lab2)
 
-[3. Sagemaker ile CI/CD süreçlerinin oluşturulması - hazırlanıyor]
+[3. Sagemaker ile CI/CD süreçlerinin oluşturulması - hazırlanıyor](https://github.com/barisyasin/recommendation-engine-lab-tr/tree/master/lab3)
 
